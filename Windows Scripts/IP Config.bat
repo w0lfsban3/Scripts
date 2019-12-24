@@ -1,3 +1,4 @@
+::Script for easily changing IP address configuration on Windows computer.
 ::Run with Admin Privilege
 
 @ECHO off
